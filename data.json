@@ -1,7 +1,12 @@
 [
   {
-    "Title":"Imageinfo",
-    "url":"https://www.youtube.com/watch?v=GsDP1bLoIQU",
-    "category":["DFIR","VBA"]
+    "Title":"How Android Bluetooth Connections Can Determine if a Driver had Their Hands on the Wheel During an Accident",
+    "url":"https://dfir.pubpub.org/pub/6ysxvhvc/release/1",
+    "category":["DFIR","Bluetooth","Android","Forensic"]
+  },
+  {
+    "Title":"Samsung sBrowser – Android Forensics: A Look Into The Cache Files",
+    "url":"https://www.forensicfocus.com/articles/samsung-sbrowser-android-forensics-a-look-into-the-cache-files/",
+    "category":["DFIR","Browser","Android","Forensic","Cache Files","Samsung"]
   }
   ]
