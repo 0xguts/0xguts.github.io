@@ -107,5 +107,107 @@
             "Javascript"
         ],
         "id": 1733656
+    },
+    {
+        "Title": "Malcolm : Network Traffic Analysis Tool",
+        "url": "https:\/\/github.com\/cisagov\/Malcolm",
+        "category": [
+            "PCAP",
+            "Network Traffic Analysis",
+            "zeek"
+        ],
+        "id": 1416681
+    },
+    {
+        "Title": "Suricata : open source threat detection engine",
+        "url": "https:\/\/suricata.io\/",
+        "category": [
+            "IDS",
+            "IPS",
+            "Open Source",
+            "Threat Detection",
+            "Network",
+            "OT Monitoring"
+        ],
+        "id": 1505525
+    },
+    {
+        "Title": "Zeek : Network analysis framework",
+        "url": "https:\/\/github.com\/zeek\/zeek",
+        "category": [
+            "IDS",
+            "Open Source",
+            "Network",
+            "OT Monitoring",
+            "Traffic analysis"
+        ],
+        "id": 1547385
+    },
+    {
+        "Title": "Security Onion : Open Linux distribution for threat hunting, enterprise security monitoring, and log management",
+        "url": "https:\/\/securityonionsolutions.com\/software\/",
+        "category": [
+            "Linux",
+            "OT Monitoring",
+            "Network Analysis",
+            "Threat Hunting",
+            "Logs Analysis",
+            "ELK"
+        ],
+        "id": 1423473
+    },
+    {
+        "Title": "Trivy : Scanner for vulnerabilities in container images, file systems etc...",
+        "url": "https:\/\/github.com\/aquasecurity\/trivy",
+        "category": [
+            "Container Security",
+            "DevSecOps",
+            "Scanner",
+            "Docker"
+        ],
+        "id": 1863181
+    },
+    {
+        "Title": "The Falco Project : Cloud Native Runtime Security",
+        "url": "https:\/\/falco.org\/docs\/",
+        "category": [
+            "Runtime Security",
+            "Container",
+            "DevSecOps",
+            "docker"
+        ],
+        "id": 1920753
+    },
+    {
+        "Title": "Clair : Vulnerability Static Analysis for Containers",
+        "url": "https:\/\/github.com\/quay\/clair",
+        "category": [
+            "Static",
+            "DevSecOps",
+            "Containers",
+            "docker"
+        ],
+        "id": 1911088
+    },
+    {
+        "Title": "SonarQube 8 : open-source source code security",
+        "url": "https:\/\/digitalavenue.dev\/Install-SonarQube-On-Ubuntu-Debian\/",
+        "category": [
+            "Source Code",
+            "Code Bugs"
+        ],
+        "id": 1691632
+    },
+    {
+        "Title": "Anchor Engine : Docker images Analyzer ",
+        "url": "https:\/\/github.com\/anchore\/anchore-engine",
+        "category": [
+            "static-analysis",
+            "docker-image",
+            "docker",
+            "dockerhub",
+            "DevSecOps"
+        ],
+        "id": 1289752
     }
 ]
