@@ -1,4 +1,5 @@
-{
+[
+    {
         "id": 0,
         "Title": "How Android Bluetooth Connections Can Determine if a Driver had Their Hands on the Wheel During an Accident",
         "url": "https:\/\/dfir.pubpub.org\/pub\/6ysxvhvc\/release\/1",
@@ -8,4 +9,206 @@
             "Android",
             "Forensics"
         ]
+    },
+    {
+        "id": 1,
+        "Title": "Samsung sBrowser \u2013 Android Forensics: A Look Into The Cache Files",
+        "url": "https:\/\/www.forensicfocus.com\/articles\/samsung-sbrowser-android-forensics-a-look-into-the-cache-files\/",
+        "category": [
+            "DFIR",
+            "Browser",
+            "Android",
+            "Forensic",
+            "Cache Files",
+            "Samsung"
+        ]
+    },
+    {
+        "Title": "Hex Diving \u2014 The Easy Way to Uncover Hidden Forensic Artifacts",
+        "url": "https:\/\/cellebrite.com\/en\/hex-diving-the-easy-way-to-uncover-hidden-forensic-artifacts\/",
+        "category": [
+            "DFIR",
+            "Forensic"
+        ],
+        "id": 1780351
+    },
+    {
+        "Title": "Excel 4.0 macro returns \u2014 This time in a malicous campaign",
+        "url": "https:\/\/medium.com\/@sureshtskumar\/excel-4-0-macro-returns-this-time-in-a-malicous-campaign-665c32c1b17a",
+        "category": [
+            "Macros",
+            "VBA"
+        ],
+        "id": 1642893
+    },
+    {
+        "Title": "iOS Settings Display Auto-Lock & Require Passcode",
+        "url": "https:\/\/theforensicscooter.com\/2021\/09\/05\/ios-settings-display-auto-lock-require-passcode\/",
+        "category": [
+            "IOS",
+            "Forensic",
+            "Mobile Forensic"
+        ],
+        "id": 1669922
+    },
+    {
+        "Title": "IOS Health Data Types",
+        "url": "https:\/\/www.doubleblak.com\/blogPosts.php?id=21",
+        "category": [
+            "IOS",
+            "Forensic",
+            "Mobile Forensic"
+        ],
+        "id": 1965653
+    },
+    {
+        "Title": "Safari Favicon database",
+        "url": "https:\/\/www.doubleblak.com\/blogPosts.php?id=13",
+        "category": [
+            "IOS",
+            "Forensic",
+            "Mobile Forensic",
+            "Favicon",
+            "Artifacts analysis"
+        ],
+        "id": 1015607
+    },
+    {
+        "Title": "\tPList Decoding",
+        "url": "https:\/\/www.doubleblak.com\/blogPosts.php?id=3",
+        "category": [
+            "IOS",
+            "Forensic",
+            "Mobile Forensic",
+            "Favicon",
+            "Artifacts analysis",
+            "database"
+        ],
+        "id": 1674297
+    },
+    {
+        "Title": "QakBot technical analysis",
+        "url": "https:\/\/securelist.com\/qakbot-technical-analysis\/103931\/",
+        "category": [
+            "Malware",
+            "Analysis",
+            "QuackBot",
+            "QBot",
+            "Pinkslipbot"
+        ],
+        "id": 1897466
+    },
+    {
+        "Title": "Angler Exploit Kit \u2013 Operating at the Cutting Edge",
+        "url": "https:\/\/www.forcepoint.com\/blog\/x-labs\/angler-exploit-kit-operating-cutting-edge",
+        "category": [
+            "Malware",
+            "Analysis",
+            "Angler",
+            "Exploit",
+            "Obfuscation"
+        ],
+        "id": 1532243
+    },
+    {
+        "Title": "Angler EK JavaScript Deobfuscation: The Emperor Has No Clothes",
+        "url": "https:\/\/www.fuzzysecurity.com\/tutorials\/22.html",
+        "category": [
+            "Malware",
+            "Analysis",
+            "Angler",
+            "Exploit",
+            "JavaScript Deobfuscation"
+        ],
+        "id": 1646920
+    },
+    {
+        "Title": "Automatically Extracting Obfuscated Strings from Malware using the FireEye Labs Obfuscated String Solver (FLOSS)",
+        "url": "https:\/\/www.mandiant.com\/resources\/automatically-extracting-obfuscated-strings",
+        "category": [
+            "Malware",
+            "Analysis",
+            "FLOSS",
+            "Mandiant"
+        ],
+        "id": 1636807
+    },
+    {
+        "Title": "Analyzing Malicious Documents Cheat Sheet",
+        "url": "https:\/\/zeltser.com\/analyzing-malicious-documents\/",
+        "category": [
+            "Malware",
+            "Analysis",
+            "Malicious Documents",
+            "oledump",
+            "VBA",
+            "Macros"
+        ],
+        "id": 1243136
+    },
+    {
+        "Title": "eBPF: Sandboxed programs in an operating system kernel",
+        "url": "https:\/\/ebpf.io\/",
+        "category": [
+            "Kernel",
+            "eBPF",
+            "Operating System",
+            "Linux kernel"
+        ],
+        "id": 1963156
+    },
+    {
+        "Title": "Cyberdefenders Detect Log4j CTF",
+        "url": "https:\/\/beginninghacking.net\/2022\/01\/17\/cyberdefenders-detectlog4j-ctf\/",
+        "category": [
+            "CTF",
+            "DFIR",
+            "Windows Forensic",
+            "Cyberdefenders",
+            "Log4j"
+        ],
+        "id": 1872418
+    },
+    {
+        "Title": "Malware Detection Events (XML Logs)",
+        "url": "https:\/\/docs.logrhythm.com\/docs\/devices\/ms-windows-event-log-sources\/ms-windows-event-logging-xml-windows-defender\/malware-detection-events-xml-logs",
+        "category": [
+            "Malware",
+            "Detection",
+            "XML",
+            "Logs"
+        ],
+        "id": 1375280
+    },
+    {
+        "Title": "DERIVING CYBER THREAT INTELLIGENCE AND DRIVING THREAT HUNTING",
+        "url": "https:\/\/malwarenailed.blogspot.com\/2018\/09\/reversing-shellcode-using-blobrunner.html",
+        "category": [
+            "Threat Hunting",
+            "DFIR",
+            "Malware Analysis"
+        ],
+        "id": 1244796
+    },
+    {
+        "Title": "Detecting and Analyzing Kernel-Based Malware",
+        "url": "https:\/\/securityintelligence.com\/detecting-and-analyzing-kernel-based-malware\/",
+        "category": [
+            "Malware",
+            "Kernel",
+            "Root kit"
+        ],
+        "id": 1805006
+    },
+    {
+        "Title": "Dissecting Turla Rootkit Malware Using Dynamic Analysis",
+        "url": "https:\/\/www.lastline.com\/labsblog\/dissecting-turla-rootkit-malware-using-dynamic-analysis\/",
+        "category": [
+            "Turla",
+            "Rootkit",
+            "Malware Analysis",
+            "Technical Analysis"
+        ],
+        "id": 1166165
     }
+]
