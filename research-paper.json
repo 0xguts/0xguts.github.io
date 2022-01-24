@@ -1,0 +1,56 @@
+[
+    {
+        "Title": "Forensic Issues and Techniques to Improve Security in SSD With Flex Capacity Feature",
+        "url": "https:\/\/ieeexplore.ieee.org\/abstract\/document\/9656110",
+        "category": [
+            "DFIR",
+            "SSD",
+            "Malware",
+            "OP Area"
+        ],
+        "id": 1149938
+    },
+    {
+        "Title": "Internet of Things (IOT): Research Challenges and Future Applications",
+        "url": "https:\/\/thesai.org\/Downloads\/Volume10No6\/Paper_11-Internet_of_Things_IOT_Research_Challenges.pdf",
+        "category": [
+            "IOT",
+            "Challenges",
+            "Blockchain of Things"
+        ],
+        "id": 1328674
+    },
+    {
+        "Title": "HTTP\/2: The Sequel is Always Worse",
+        "url": "https:\/\/portswigger.net\/research\/http2",
+        "category": [
+            "HTTP\/2",
+            "Desync Attacks",
+            "Exploit Primitives",
+            "Tunnelling"
+        ],
+        "id": 1918086
+    },
+    {
+        "Title": "Overview of PUF-based hardware security solutions for the internet of things",
+        "url": "https:\/\/ieeexplore.ieee.org\/document\/7870046",
+        "category": [
+            "PUF",
+            "Hardware",
+            "Security",
+            "IOT"
+        ],
+        "id": 1856696
+    },
+    {
+        "Title": "Forensic Analysis of Tor Browser on Windows 10 and Android 10 Operating Systems",
+        "url": "https:\/\/ieeexplore.ieee.org\/stamp\/stamp.jsp?tp=&arnumber=9568880",
+        "category": [
+            "Forensic Analysis",
+            "TOR",
+            "Windows 10",
+            "Android 10"
+        ],
+        "id": 1264960
+    }
+]
