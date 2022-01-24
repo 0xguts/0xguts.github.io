@@ -52,5 +52,64 @@
             "Android 10"
         ],
         "id": 1264960
+    },
+    {
+        "Title": "ANALYSIS OF THE AMCACHE",
+        "url": "https:\/\/www.ssi.gouv.fr\/uploads\/2019\/01\/anssi-coriin_2019-analysis_amcache.pdf",
+        "category": [
+            "amcahe",
+            "forensic",
+            "DFIR",
+            "DFIR",
+            "Blue Team"
+        ],
+        "id": 1539256
+    },
+    {
+        "Title": "Combating the OS-level Malware in Mobile Devices by Leveraging Isolation and Steganography",
+        "url": "https:\/\/snp.cs.mtu.edu\/research\/drm2\/mobidom.pdf",
+        "category": [
+            "malware",
+            "OS malware",
+            "mobile devices",
+            "Steganography"
+        ],
+        "id": 1290927
+    },
+    {
+        "Title": "A Forensic Analysis of the Encrypting File System",
+        "url": "https:\/\/sansorg.egnyte.com\/dl\/1YSmX6FBSI",
+        "category": [
+            "encrypting",
+            "analysis",
+            "DFIR",
+            "forensic",
+            "file system"
+        ],
+        "id": 1749773
+    },
+    {
+        "Title": "Staying Invisible: Analyzing Private Browsing and Anti-forensics on Mac OS X",
+        "url": "https:\/\/sansorg.egnyte.com\/dl\/VlI3eTl2Os",
+        "category": [
+            "private browsing",
+            "forensic",
+            "DFIR",
+            "Staying Invisible"
+        ],
+        "id": 1115325
+    },
+    {
+        "Title": "WhatsApp Forensics on Smartphones",
+        "url": "https:\/\/belkasoft.com\/whitepaper_whatsapp_forensics",
+        "category": [
+            "WhatsApp",
+            "DFIR",
+            "Forensic",
+            "Android",
+            "IOS",
+            "Blue Team"
+        ],
+        "id": 1022243
     }
 ]
