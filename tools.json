@@ -5,7 +5,8 @@
         "category": [
             "Malware",
             "Analysis",
-            "Scanner"
+            "Scanner",
+            "Blue Teaming"
         ],
         "id": 1164001
     },
@@ -26,7 +27,8 @@
         "category": [
             "Packers Detector",
             "File Obfuscation Detecting",
-            "Malware"
+            "Malware",
+            "Reverse Enginerring"
         ],
         "id": 1637589
     },
@@ -45,7 +47,8 @@
         "url": "",
         "category": [
             "PE analysis",
-            "Executable"
+            "Executable",
+            "Reverse Engineering"
         ],
         "id": 1341498
     },
@@ -55,7 +58,9 @@
         "category": [
             "Yara",
             "Rule Generator",
-            "Malware"
+            "Malware",
+            "Reverse Engineering",
+            "Blue Team"
         ],
         "id": 1994992
     },
@@ -73,7 +78,8 @@
         "Title": "Process Hacker",
         "url": "http:\/\/processhacker.sourceforge.net\/",
         "category": [
-            "monitoring tool"
+            "monitoring tool",
+            "Red Teaming"
         ],
         "id": 1339344
     },
@@ -94,7 +100,8 @@
             "Packer",
             "Unpack",
             "UPX",
-            "executables"
+            "executables",
+            "Reverse Engineering"
         ],
         "id": 1881624
     },
@@ -104,7 +111,8 @@
         "category": [
             "PDF",
             "Malware",
-            "Javascript"
+            "Javascript",
+            "Blue Teaming"
         ],
         "id": 1733656
     },
@@ -209,5 +217,199 @@
             "DevSecOps"
         ],
         "id": 1289752
+    },
+    {
+        "Title": "The Time Machine",
+        "url": "https:\/\/github.com\/anmolksachan\/TheTimeMachine",
+        "category": [
+            "BugBounties",
+            "OSINT",
+            "Sensitive Endpoints",
+            "Recon"
+        ],
+        "id": 1712921
+    },
+    {
+        "Title": "Subfinder : Subdomain discovery tool",
+        "url": "https:\/\/github.com\/projectdiscovery\/subfinder",
+        "category": [
+            "OSINT",
+            "Bug-hunting",
+            "Subdomains",
+            "Recon"
+        ],
+        "id": 1082696
+    },
+    {
+        "Title": "FFUF : Fast web fuzzer written in Go",
+        "url": "https:\/\/github.com\/ffuf\/ffuf",
+        "category": [
+            "Web",
+            "Bug-hunting",
+            "Pentesting",
+            "Fuzzer"
+        ],
+        "id": 1513333
+    },
+    {
+        "Title": "Sublist3r : About Fast subdomains enumeration tool",
+        "url": "https:\/\/github.com\/aboul3la\/Sublist3r",
+        "category": [
+            "OSINT",
+            "Bug-hunting",
+            "Subdomains",
+            "Recon"
+        ],
+        "id": 1653449
+    },
+    {
+        "Title": "Dirsearch : Web path scanner",
+        "url": "https:\/\/github.com\/maurosoria\/dirsearch",
+        "category": [
+            "Scanner",
+            "Directory Bruteforce",
+            "Bughunting",
+            "fuzzer",
+            "scanner"
+        ],
+        "id": 1853919
+    },
+    {
+        "Title": "Amass : In-depth Attack Surface Mapping and Asset Discovery",
+        "url": "https:\/\/github.com\/OWASP\/Amass",
+        "category": [
+            "OSINT",
+            "Bug-hunting",
+            "DNS",
+            "OWASP"
+        ],
+        "id": 1921853
+    },
+    {
+        "Title": "Httprobe",
+        "url": "https:\/\/github.com\/tomnomnom\/httprobe",
+        "category": [
+            "Web Security",
+            "Bug hunting",
+            "Probe"
+        ],
+        "id": 1056411
+    },
+    {
+        "Title": "Osmedeus : A Workflow Engine for Offensive Security",
+        "url": "https:\/\/github.com\/j3ssie\/Osmedeus",
+        "category": [
+            "BugBounties",
+            "pentesting",
+            "Workflow",
+            "Engine",
+            "Recon",
+            "Information Gathering"
+        ],
+        "id": 1892043
+    },
+    {
+        "Title": "Hakrawler : Simple, fast web crawler",
+        "url": "https:\/\/github.com\/hakluke\/hakrawler",
+        "category": [
+            "Web Crawler",
+            "Endpoint discovery",
+            "Bug hunting",
+            "Assets discovery"
+        ],
+        "id": 1389912
+    },
+    {
+        "Title": " ReconNess : A Web App Tool to Run and Keep all your #recon in the same place",
+        "url": "https:\/\/github.com\/reconness",
+        "category": [
+            "Web Security",
+            "Bug hunting",
+            "Recon",
+            "Platform"
+        ],
+        "id": 1666024
+    },
+    {
+        "Title": "Knock : Knock Subdomain Scan",
+        "url": "https:\/\/github.com\/guelfoweb\/knock",
+        "category": [
+            "OSINT",
+            "Bug-hunting",
+            "Subdomains",
+            "Recon"
+        ],
+        "id": 1632016
+    },
+    {
+        "Title": "Nuclei : Fast and customizable vulnerability scanner",
+        "url": "https:\/\/github.com\/projectdiscovery\/nuclei",
+        "category": [
+            "CVE-Scanner",
+            "security scanner",
+            "nuclei-engine",
+            "vulnerability assessment",
+            "Bug hunting"
+        ],
+        "id": 1406990
+    },
+    {
+        "Title": "Spdierfoot : It automates OSINT for threat intelligence and mapping your attack surface",
+        "url": "https:\/\/github.com\/smicallef\/spiderfoot",
+        "category": [
+            "CTI",
+            "Threat Intelligence",
+            "Information Gathering",
+            "Recon",
+            "OSINT",
+            "Pentest",
+            "Red Teaming"
+        ],
+        "id": 1283734
+    },
+    {
+        "Title": "FavFreak : Making Favicon.ico based Recon Great again !",
+        "url": "https:\/\/github.com\/devanshbatham\/FavFreak",
+        "category": [
+            "osint",
+            "web security",
+            "recon",
+            "information gathering",
+            "webappsec"
+        ],
+        "id": 1450295
+    },
+    {
+        "Title": "ParamSpider : Mining parameters from dark corners of Web Archives",
+        "url": "https:\/\/github.com\/devanshbatham\/ParamSpider",
+        "category": [
+            "Content Discovery",
+            "bughunting",
+            "urls parameters",
+            "fuzzing"
+        ],
+        "id": 1830799
+    },
+    {
+        "Title": "OpenRedireX : A Fuzzer for OpenRedirect issues",
+        "url": "https:\/\/github.com\/devanshbatham\/OpenRedireX",
+        "category": [
+            "open redirect",
+            "fuzzer",
+            "scanner"
+        ],
+        "id": 1128590
+    },
+    {
+        "Title": "ArchiveFuzz : Hunt down the secrets from the WebArchives for Fun and Profit",
+        "url": "https:\/\/github.com\/devanshbatham\/ArchiveFuzz",
+        "category": [
+            "web archive",
+            "subdomain",
+            "enumeration",
+            "email",
+            "bug hunting"
+        ],
+        "id": 1646571
     }
 ]
