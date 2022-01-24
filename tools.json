@@ -234,7 +234,7 @@
         "url": "https:\/\/github.com\/projectdiscovery\/subfinder",
         "category": [
             "OSINT",
-            "Bug-hunting",
+            "Bug-Bounty",
             "Subdomains",
             "Recon"
         ],
@@ -245,7 +245,7 @@
         "url": "https:\/\/github.com\/ffuf\/ffuf",
         "category": [
             "Web",
-            "Bug-hunting",
+            "Bug-Bounty",
             "Pentesting",
             "Fuzzer"
         ],
@@ -256,7 +256,7 @@
         "url": "https:\/\/github.com\/aboul3la\/Sublist3r",
         "category": [
             "OSINT",
-            "Bug-hunting",
+            "Bug-Bounty",
             "Subdomains",
             "Recon"
         ],
@@ -268,7 +268,7 @@
         "category": [
             "Scanner",
             "Directory Bruteforce",
-            "Bughunting",
+            "BugBounty",
             "fuzzer",
             "scanner"
         ],
@@ -279,7 +279,7 @@
         "url": "https:\/\/github.com\/OWASP\/Amass",
         "category": [
             "OSINT",
-            "Bug-hunting",
+            "Bug-Bounty",
             "DNS",
             "OWASP"
         ],
@@ -290,7 +290,7 @@
         "url": "https:\/\/github.com\/tomnomnom\/httprobe",
         "category": [
             "Web Security",
-            "Bug hunting",
+            "Bug Bounty",
             "Probe"
         ],
         "id": 1056411
@@ -314,7 +314,7 @@
         "category": [
             "Web Crawler",
             "Endpoint discovery",
-            "Bug hunting",
+            "Bug Bounty",
             "Assets discovery"
         ],
         "id": 1389912
@@ -324,7 +324,7 @@
         "url": "https:\/\/github.com\/reconness",
         "category": [
             "Web Security",
-            "Bug hunting",
+            "Bug Bounty",
             "Recon",
             "Platform"
         ],
@@ -335,7 +335,7 @@
         "url": "https:\/\/github.com\/guelfoweb\/knock",
         "category": [
             "OSINT",
-            "Bug-hunting",
+            "Bug-Bounty",
             "Subdomains",
             "Recon"
         ],
@@ -349,7 +349,7 @@
             "security scanner",
             "nuclei-engine",
             "vulnerability assessment",
-            "Bug hunting"
+            "Bug Bounty"
         ],
         "id": 1406990
     },
@@ -384,7 +384,7 @@
         "url": "https:\/\/github.com\/devanshbatham\/ParamSpider",
         "category": [
             "Content Discovery",
-            "bughunting",
+            "bugbounty",
             "urls parameters",
             "fuzzing"
         ],
@@ -411,5 +411,70 @@
             "bug hunting"
         ],
         "id": 1646571
+    },
+    {
+        "Title": " OCR-Bitmap-Cache : Triage text in bitmap cache images.",
+        "url": "https:\/\/github.com\/DFIR-Drew\/OCR-Bitmap-Cache",
+        "category": [
+            "RDP",
+            "bitmap",
+            "forensic"
+        ],
+        "id": 1353093
+    },
+    {
+        "Title": "The MALWARE Repo : Repository full of malware samples",
+        "url": "https:\/\/github.com\/Da2dalus\/The-MALWARE-Repo",
+        "category": [
+            "malware",
+            "trojan",
+            "samples",
+            "rat",
+            "spyware",
+            "wannacry"
+        ],
+        "id": 1352667
+    },
+    {
+        "Title": "Scrummage : The Ultimate OSINT and Threat Hunting Framework",
+        "url": "https:\/\/github.com\/matamorphosis\/Scrummage",
+        "category": [
+            "osint",
+            "threat hunting",
+            "threat intelligence"
+        ],
+        "id": 1473051
+    },
+    {
+        "Title": "SQL Injection Payload List",
+        "url": "https:\/\/github.com\/payloadbox\/sql-injection-payload-list",
+        "category": [
+            "sql injection",
+            "webapp",
+            "security",
+            "owasp",
+            "bug hunting",
+            "pentesting"
+        ],
+        "id": 1036548
+    },
+    {
+        "Title": "Sguil: The Analyst Console for Network Security Monitoring",
+        "url": "https:\/\/bammv.github.io\/sguil\/docs.html",
+        "category": [
+            "Network monitoring"
+        ],
+        "id": 1081011
+    },
+    {
+        "Title": "IOS Forensics Artifacts v0.1",
+        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1z-44BUA2AVf8uqnoiDDSi7UxbyWy8KJqK4uaYq_0YYg\/edit#gid=9",
+        "category": [
+            "IOS",
+            "artifacts",
+            "Forensic",
+            "DFIR"
+        ],
+        "id": 1955649
     }
 ]
