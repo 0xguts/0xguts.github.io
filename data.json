@@ -7,7 +7,8 @@
             "DFIR",
             "Bluetooth",
             "Android",
-            "Forensics"
+            "Forensics",
+            "Blue Teaming"
         ]
     },
     {
@@ -17,6 +18,7 @@
         "category": [
             "DFIR",
             "Browser",
+            "Blue Teaming",
             "Android",
             "Forensic",
             "Cache Files",
@@ -28,7 +30,8 @@
         "url": "https:\/\/cellebrite.com\/en\/hex-diving-the-easy-way-to-uncover-hidden-forensic-artifacts\/",
         "category": [
             "DFIR",
-            "Forensic"
+            "Forensic",
+            "Blue Teaming"
         ],
         "id": 1780351
     },
@@ -37,7 +40,8 @@
         "url": "https:\/\/medium.com\/@sureshtskumar\/excel-4-0-macro-returns-this-time-in-a-malicous-campaign-665c32c1b17a",
         "category": [
             "Macros",
-            "VBA"
+            "VBA",
+            "Blue Teaming"
         ],
         "id": 1642893
     },
@@ -47,6 +51,7 @@
         "category": [
             "IOS",
             "Forensic",
+            "Blue Teaming",
             "Mobile Forensic"
         ],
         "id": 1669922
@@ -57,6 +62,7 @@
         "category": [
             "IOS",
             "Forensic",
+            "Blue Teaming",
             "Mobile Forensic"
         ],
         "id": 1965653
@@ -66,6 +72,7 @@
         "url": "https:\/\/www.doubleblak.com\/blogPosts.php?id=13",
         "category": [
             "IOS",
+            "Blue Teaming",
             "Forensic",
             "Mobile Forensic",
             "Favicon",
@@ -78,6 +85,7 @@
         "url": "https:\/\/www.doubleblak.com\/blogPosts.php?id=3",
         "category": [
             "IOS",
+            "Blue Teaming",
             "Forensic",
             "Mobile Forensic",
             "Favicon",
@@ -91,6 +99,7 @@
         "url": "https:\/\/securelist.com\/qakbot-technical-analysis\/103931\/",
         "category": [
             "Malware",
+            "Blue Teaming",
             "Analysis",
             "QuackBot",
             "QBot",
@@ -103,6 +112,8 @@
         "url": "https:\/\/www.forcepoint.com\/blog\/x-labs\/angler-exploit-kit-operating-cutting-edge",
         "category": [
             "Malware",
+            "Blue Teaming",
+            "Red Teaming",
             "Analysis",
             "Angler",
             "Exploit",
@@ -116,6 +127,8 @@
         "category": [
             "Malware",
             "Analysis",
+            "Blue Teaming",
+            "Red Teaming",
             "Angler",
             "Exploit",
             "JavaScript Deobfuscation"
@@ -128,6 +141,7 @@
         "category": [
             "Malware",
             "Analysis",
+            "Blue Teaming",
             "FLOSS",
             "Mandiant"
         ],
@@ -138,6 +152,7 @@
         "url": "https:\/\/zeltser.com\/analyzing-malicious-documents\/",
         "category": [
             "Malware",
+            "Blue Teaming",
             "Analysis",
             "Malicious Documents",
             "oledump",
@@ -164,6 +179,7 @@
             "CTF",
             "DFIR",
             "Windows Forensic",
+            "Blue Teaming",
             "Cyberdefenders",
             "Log4j"
         ],
@@ -175,6 +191,7 @@
         "category": [
             "Malware",
             "Detection",
+            "Blue Teaming",
             "XML",
             "Logs"
         ],
@@ -185,6 +202,7 @@
         "url": "https:\/\/malwarenailed.blogspot.com\/2018\/09\/reversing-shellcode-using-blobrunner.html",
         "category": [
             "Threat Hunting",
+            "Blue Teaming",
             "DFIR",
             "Malware Analysis"
         ],
@@ -195,6 +213,7 @@
         "url": "https:\/\/securityintelligence.com\/detecting-and-analyzing-kernel-based-malware\/",
         "category": [
             "Malware",
+            "Blue Teaming",
             "Kernel",
             "Root kit"
         ],
@@ -207,6 +226,8 @@
             "Turla",
             "Rootkit",
             "Malware Analysis",
+            "Blue Teaming",
+            "Red Teaming",
             "Technical Analysis"
         ],
         "id": 1166165
@@ -218,8 +239,154 @@
             "Log4j",
             "Apache",
             "CVE-2021-44228",
-            "Log4Shell"
+            "Log4Shell",
+            "Blue Teaming"
         ],
         "id": 1013117
+    },
+    {
+        "Title": "JbossMiner Mining Malware analysis",
+        "url": "https:\/\/www.alibabacloud.com\/blog\/jbossminer-mining-malware-analysis_593804",
+        "category": [
+            "Malware",
+            "Analysis",
+            "Python Exploit",
+            "CryptoMinner"
+        ],
+        "id": 1277755
+    },
+    {
+        "Title": "Top 25 RCE Bug Bounty Reports",
+        "url": "https:\/\/corneacristian.medium.com\/top-25-rce-bug-bounty-reports-bc9555cca7bc",
+        "category": [
+            "bug hunting",
+            "RCE",
+            "reports",
+            "hackerone",
+            "bugcrowd"
+        ],
+        "id": 1931111
+    },
+    {
+        "Title": " Improper Authorization could allow access to more than 100,000 Microsoft Dynamics 365 for Partner Users",
+        "url": "https:\/\/mearegtu.medium.com\/broken-access-control-cc6cfd793b15",
+        "category": [
+            "bug hunting",
+            "broken access control",
+            "reports",
+            "hackerone",
+            "bugcrowd"
+        ],
+        "id": 1750898
+    },
+    {
+        "Title": "Red Teaming - Enumeration",
+        "url": "https:\/\/aidenpearce369.github.io\/offsec\/redteam-enumeration\/",
+        "category": [
+            "Red Teaming",
+            "enumeration",
+            "pentesting"
+        ],
+        "id": 1961013
+    },
+    {
+        "Title": "Windows Registry Analysis 101",
+        "url": "https:\/\/www.forensicfocus.com\/articles\/windows-registry-analysis-101\/#:~:text=AccessData%20FTK%20(Forensic%20Tool%20Kit,identify%20various%20pieces%20of%20information.",
+        "category": [
+            "Forensic",
+            "Blue teaming",
+            "windows registry",
+            "FTK Imager"
+        ],
+        "id": 1526908
+    },
+    {
+        "Title": "JSON Web Token Pentesting",
+        "url": "https:\/\/medium.com\/@netscylla\/json-web-token-pentesting-890bc2cf0dcd",
+        "category": [
+            "jwt",
+            "bug hunting",
+            "webapp",
+            "security",
+            "pentesting"
+        ],
+        "id": 1163121
+    },
+    {
+        "Title": "Shellbags Forensic",
+        "url": "https:\/\/www.4n6k.com\/2013\/12\/shellbags-forensics-addressing.html",
+        "category": [
+            "shellbags",
+            "Blue Teaming",
+            "windows",
+            "forensic"
+        ],
+        "id": 1895290
+    },
+    {
+        "Title": "Intro to Linux memory forensics",
+        "url": "https:\/\/stuxnet999.github.io\/dfir\/2020\/09\/20\/Linux-Memory-Forensics.html",
+        "category": [
+            "DFIR",
+            "linux memory forensic",
+            "blue teaming",
+            "avml",
+            "lime",
+            "volatility"
+        ],
+        "id": 1076693
+    },
+    {
+        "Title": "Visualizing IP Traffic with Brim, Zeek and NetworkX",
+        "url": "https:\/\/medium.com\/brim-securitys-knowledge-funnel\/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f",
+        "category": [
+            "Network analysis",
+            "security",
+            "Traffic analysis"
+        ],
+        "id": 1300651
+    },
+    {
+        "Title": "DERIVING CYBER THREAT INTELLIGENCE AND DRIVING THREAT HUNTING",
+        "url": "https:\/\/malwarenailed.blogspot.com\/2018\/09\/reversing-shellcode-using-blobrunner.html",
+        "category": [
+            "Threat Hunting",
+            "DFIR",
+            "malware analysis",
+            "Blue Teaming"
+        ],
+        "id": 1379424
+    },
+    {
+        "Title": "Wireshark Tutorial: Display Filter Expressions",
+        "url": "https:\/\/unit42.paloaltonetworks.com\/using-wireshark-display-filter-expressions\/",
+        "category": [
+            "wireshark",
+            "filters",
+            "network analysis"
+        ],
+        "id": 1039834
+    },
+    {
+        "Title": "Dumping credentials from SAM file using mimikatz and cracking with john the ripper and hashcat",
+        "url": "https:\/\/sanjumalhotra26.medium.com\/dumping-credentials-from-sam-file-using-mimikatz-and-cracking-with-john-the-ripper-and-hashcat-ce5bbf2f4f5a",
+        "category": [
+            "Red Teaming",
+            "pentesting",
+            "John The Ripper",
+            "hashcat"
+        ],
+        "id": 1723970
+    },
+    {
+        "Title": "Windows registry in forensic analysis",
+        "url": "https:\/\/www.andreafortuna.org\/2017\/10\/18\/windows-registry-in-forensic-analysis\/",
+        "category": [
+            "registry forensic",
+            "DFIR",
+            "windows",
+            "pagefile"
+        ],
+        "id": 1047911
     }
 ]
