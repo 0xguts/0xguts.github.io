@@ -1,0 +1,77 @@
+[
+    {
+        "Title": "Digital Corpa",
+        "url": "https:\/\/digitalcorpora.org\/corpora",
+        "category": [
+            "Cell Phone Images",
+            "Disk Images",
+            "Packet Dumps",
+            "Scenario Based"
+        ],
+        "id": 1467523
+    },
+    {
+        "Title": "CFREDS ",
+        "url": "https:\/\/cfreds.nist.gov\/all",
+        "category": [
+            "Packets",
+            "memory",
+            "multimedia",
+            "telecommunication",
+            "email",
+            "browser",
+            "RAM Images",
+            "Data Forensic"
+        ],
+        "id": 1485361
+    },
+    {
+        "Title": "The Binary Hick",
+        "url": "https:\/\/thebinaryhick.blog\/public_images\/",
+        "category": [
+            "IOS Images",
+            "Android Images"
+        ],
+        "id": 1666741
+    },
+    {
+        "Title": "Ali Hadi Datasets",
+        "url": "https:\/\/www.ashemery.com\/dfir.html",
+        "category": [
+            "USB Forensic",
+            "Browser",
+            "Email Forensic",
+            "Linux",
+            "Windows",
+            "Image Forensic",
+            "Disk Forensic"
+        ],
+        "id": 1224801
+    },
+    {
+        "Title": "DFWRS",
+        "url": "https:\/\/github.com\/dfrws",
+        "category": [
+            "Mobile",
+            "Windows",
+            "IOT",
+            "Linux",
+            "Smart TV",
+            "Packet",
+            "IOS"
+        ],
+        "id": 1825259
+    },
+    {
+        "Title": "CIRCL",
+        "url": "https:\/\/www.circl.lu\/services\/forensic-training-materials\/",
+        "category": [
+            "Incident Response",
+            "Windows",
+            "Memeory",
+            "Disk",
+            "USB Forensic"
+        ],
+        "id": 1802593
+    }
+]
