@@ -388,5 +388,136 @@
             "pagefile"
         ],
         "id": 1047911
+    },
+    {
+        "Title": "Threat Hunting with CloudTrail and GuardDuty in Splunk",
+        "url": "https:\/\/www.chrisfarris.com\/post\/reinforce-threat-hunting\/",
+        "category": [
+            "splunk",
+            "threat hunting",
+            "guard duty",
+            "search queries"
+        ],
+        "id": 1191667
+    },
+    {
+        "Title": "Extracting passwords from hiberfil.sys and memory dumps",
+        "url": "https:\/\/diverto.github.io\/2019\/11\/05\/Extracting-Passwords-from-hiberfil-and-memdumps",
+        "category": [
+            "hiberfil.sys",
+            "memory",
+            "DFIR",
+            "forensic"
+        ],
+        "id": 1025191
+    },
+    {
+        "Title": "Hunting In Memory",
+        "url": "https:\/\/www.elastic.co\/blog\/hunting-memory",
+        "category": [
+            "Memory",
+            "forensic",
+            "shellcode injection",
+            "dll injection"
+        ],
+        "id": 1608333
+    },
+    {
+        "Title": "Hardware Hacking 101 \u2013 Lesson 1: Beauty, Your Home Lab and Basic Electronics",
+        "url": "https:\/\/www.ethicalhacker.net\/columns\/sindermann\/hardware-hacking-101-lesson-1\/",
+        "category": [
+            "hardware",
+            "security",
+            "home lab",
+            "IOT"
+        ],
+        "id": 1912992
+    },
+    {
+        "Title": "IoT Pentesting Guide",
+        "url": "https:\/\/www.iotpentestingguide.com\/",
+        "category": [
+            "IOT",
+            "Hardware security",
+            "pentesting",
+            "radio security",
+            "hacking communication"
+        ],
+        "id": 1800437
+    },
+    {
+        "Title": "LINUX KERNEL DEVELOPMENT",
+        "url": "https:\/\/devarea.com\/linux-kernel-development-kernel-module-parameters\/",
+        "category": [
+            "kernel",
+            "linux"
+        ],
+        "id": 1546050
+    },
+    {
+        "Title": "Integrating Bro IDS with the ELK Stack \u2013 Part 1",
+        "url": "https:\/\/logz.io\/blog\/bro-elk-part-1\/",
+        "category": [
+            "zeek",
+            "bro",
+            "IPD",
+            "elk",
+            "log analysis"
+        ],
+        "id": 1952148
+    },
+    {
+        "Title": "Using scdbg to analyze shellcode",
+        "url": "https:\/\/isc.sans.edu\/forums\/diary\/Another+quickie+Using+scdbg+to+analyze+shellcode\/24058\/",
+        "category": [
+            "shell code analysis",
+            "reverse engineering",
+            "scdbg"
+        ],
+        "id": 1709065
+    },
+    {
+        "Title": "iPhone anti-forensics",
+        "url": "https:\/\/blog.elcomsoft.com\/2020\/09\/playing-devils-advocate-iphone-anti-forensics\/",
+        "category": [
+            "IPhone forensic",
+            "Blue Team",
+            "Antiforensic"
+        ],
+        "id": 1604922
+    },
+    {
+        "Title": "Process Injection Part 1",
+        "url": "https:\/\/www.secarma.com\/process-injection-part-1-the-theory\/",
+        "category": [
+            "process",
+            "red teaming",
+            "malware",
+            "injection"
+        ],
+        "id": 1469991
+    },
+    {
+        "Title": "Exploring \/dev\/input",
+        "url": "https:\/\/thehackerdiary.wordpress.com\/2017\/04\/21\/exploring-devinput-1\/",
+        "category": [
+            "\/dev\/input",
+            "linux",
+            "eventx",
+            "input stream"
+        ],
+        "id": 1575625
+    },
+    {
+        "Title": "Container security with Sysdig Falco",
+        "url": "https:\/\/www.infracloud.io\/blogs\/container-security-sysdig-falco\/",
+        "category": [
+            "falco",
+            "container security",
+            "DevSecOps",
+            "docker",
+            "realtime scanning"
+        ],
+        "id": 1763215
     }
 ]
