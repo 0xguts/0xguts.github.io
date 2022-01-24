@@ -210,5 +210,16 @@
             "Technical Analysis"
         ],
         "id": 1166165
+    },
+    {
+        "Title": "Log4J",
+        "url": "https:\/\/www.nozominetworks.com\/blog\/critical-log4shell-apache-log4j-zero-day-attack-analysis\/",
+        "category": [
+            "Log4j",
+            "Apache",
+            "CVE-2021-44228",
+            "Log4Shell"
+        ],
+        "id": 1013117
     }
 ]
