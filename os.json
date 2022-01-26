@@ -1,0 +1,155 @@
+[
+    {
+        "Title": "REMnux: A Linux Toolkit for Malware Analysts",
+        "url": "https:\/\/remnux.org\/",
+        "category": [
+            "malware analysis",
+            "DFIR",
+            "Forensics",
+            "Reverse engineering",
+            "Blue team"
+        ],
+        "id": 1901857
+    },
+    {
+        "Title": "Santoku Linux",
+        "url": "https:\/\/santoku-linux.com\/",
+        "category": [
+            "mobile forensic",
+            "mobile security",
+            "mobile malware",
+            "forensic",
+            "DFIR",
+            "Blue team"
+        ],
+        "id": 1177397
+    },
+    {
+        "Title": "Attify OS",
+        "url": "https:\/\/github.com\/adi0x90\/attifyos",
+        "category": [
+            "iot",
+            "security",
+            "embedded",
+            "hardware",
+            "hacking",
+            "internet-of-things",
+            "exploitation",
+            "red teaming"
+        ],
+        "id": 1074956
+    },
+    {
+        "Title": "TSURUGI Linux : DFIR Distro",
+        "url": "https:\/\/tsurugi-linux.org\/",
+        "category": [
+            "dfir",
+            "osint",
+            "forensic",
+            "malware analysis",
+            "blue team"
+        ],
+        "id": 1719546
+    },
+    {
+        "Title": "TheHive: Open Source and Free Security Incident Response Platform",
+        "url": "https:\/\/thehive-project.org\/",
+        "category": [
+            "incident-response",
+            "orchestration",
+            "dfir",
+            "analyzer",
+            "security-incidents",
+            "iocs",
+            "digital-forensics",
+            "investigations",
+            "incident-management",
+            "incident-response-tooling"
+        ],
+        "id": 1383738
+    },
+    {
+        "Title": "CSI Linux : Linux distribution for digital forensics",
+        "url": "https:\/\/csilinux.com\/",
+        "category": [
+            "DFIR",
+            "online investigation",
+            "forensic",
+            "incident response",
+            "malware analysis"
+        ],
+        "id": 1348089
+    },
+    {
+        "Title": "SANS SIFT Workstation",
+        "url": "https:\/\/www.sans.org\/tools\/sift-workstation\/",
+        "category": [
+            "DFIR",
+            "forensic",
+            "incident response",
+            "malware analysis",
+            "Threat Intelligence",
+            "Threat Hunting",
+            "IOCs"
+        ],
+        "id": 1942662
+    },
+    {
+        "Title": "FireEye Flare VM",
+        "url": "https:\/\/github.com\/mandiant\/flare-vm",
+        "category": [
+            "reverse-engineering",
+            "malware-analysis",
+            "fireeye-flare"
+        ],
+        "id": 1627546
+    },
+    {
+        "Title": "PentestBox : Pentetration testing environment for Windows users",
+        "url": "https:\/\/pentestbox.org\/",
+        "category": [
+            "pentesting",
+            "red teaming",
+            "linux",
+            "windows",
+            "portable"
+        ],
+        "id": 1974980
+    },
+    {
+        "Title": "Commando VM : Mandiant Offensive VM",
+        "url": "https:\/\/github.com\/mandiant\/commando-vm",
+        "category": [
+            "windows",
+            "penetration-testing",
+            "red-teaming",
+            "commando",
+            "fireeye"
+        ],
+        "id": 1091141
+    },
+    {
+        "Title": "Kali Linux",
+        "url": "https:\/\/www.kali.org\/",
+        "category": [
+            "pentesting",
+            "red teaming",
+            "linux",
+            "advanced",
+            "Security Research",
+            "Computer Forensics",
+            "Reverse Engineering"
+        ],
+        "id": 1810012
+    },
+    {
+        "Title": "DEFT (Digital Evidence & Forensic Toolkit )",
+        "url": "https:\/\/archiveos.org\/deft\/",
+        "category": [
+            "Computer Forensic",
+            "dfir",
+            "old"
+        ],
+        "id": 1166312
+    }
+]
