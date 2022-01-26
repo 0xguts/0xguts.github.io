@@ -1,1 +1,373 @@
-
+[
+    {
+        "Title": "HackTheBox",
+        "url": "https:\/\/www.hackthebox.com\/",
+        "category": [
+            "red teaming",
+            "blue teaming",
+            "web",
+            "osint",
+            "forensic",
+            "boot2root",
+            "hardware",
+            "pwn",
+            "crypto"
+        ],
+        "id": 1342026
+    },
+    {
+        "Title": "TryHackMe",
+        "url": "https:\/\/tryhackme.com\/",
+        "category": [
+            "red teaming",
+            "blue teaming",
+            "web",
+            "osint",
+            "forensic",
+            "boot2root",
+            "hardware",
+            "pwn",
+            "crypto"
+        ],
+        "id": 1288905
+    },
+    {
+        "Title": "OverTheWire: Wargames",
+        "url": "https:\/\/overthewire.org\/wargames\/",
+        "category": [
+            "red teaming",
+            "crypto",
+            "linux",
+            "web"
+        ],
+        "id": 1637306
+    },
+    {
+        "Title": "Root Me",
+        "url": "https:\/\/www.root-me.org",
+        "category": [
+            "red teaming",
+            "blue teaming",
+            "web",
+            "osint",
+            "forensic",
+            "boot2root",
+            "hardware",
+            "pwn",
+            "crypto"
+        ],
+        "id": 1730803
+    },
+    {
+        "Title": "CTFLearn",
+        "url": "https:\/\/ctflearn.com\/",
+        "category": [
+            "capture the flag",
+            "web",
+            "osint",
+            "forensic",
+            "crypto"
+        ],
+        "id": 1815914
+    },
+    {
+        "Title": "Pico CTF",
+        "url": "https:\/\/picoctf.org\/",
+        "category": [
+            "red teaming",
+            "blue teaming",
+            "web",
+            "osint",
+            "forensic",
+            "boot2root",
+            "hardware",
+            "pwn",
+            "crypto"
+        ],
+        "id": 1891677
+    },
+    {
+        "Title": "VulnHub",
+        "url": "https:\/\/www.vulnhub.com\/",
+        "category": [
+            "red teaming",
+            "blue teaming",
+            "boot2root",
+            "oscp"
+        ],
+        "id": 1163036
+    },
+    {
+        "Title": "CRYPTOHACK",
+        "url": "https:\/\/cryptohack.org\/",
+        "category": [
+            "cryptograhy",
+            "crypto",
+            "rsa",
+            "des",
+            "aes",
+            "jwt"
+        ],
+        "id": 1491622
+    },
+    {
+        "Title": "CyberDefenders",
+        "url": "https:\/\/cyberdefenders.org\/",
+        "category": [
+            "blue teaming",
+            "dfir",
+            "incident response",
+            "packet analysis",
+            "foreniscs",
+            "splunk",
+            "elk stack",
+            "qradar",
+            "malware analysis"
+        ],
+        "id": 1219233
+    },
+    {
+        "Title": "Blue Team Labs",
+        "url": "https:\/\/blueteamlabs.online\/",
+        "category": [
+            "blue teaming",
+            "dfir",
+            "incident response",
+            "packet analysis",
+            "foreniscs",
+            "malware analysis"
+        ],
+        "id": 1126997
+    },
+    {
+        "Title": "SocVel",
+        "url": "https:\/\/socvel.com\/",
+        "category": [
+            "blue teaming",
+            "dfir",
+            "incident response",
+            "packet analysis",
+            "foreniscs",
+            "malware analysis",
+            "capture the flag"
+        ],
+        "id": 1587487
+    },
+    {
+        "Title": "Malware Traffic Analysis",
+        "url": "https:\/\/www.malware-traffic-analysis.net\/",
+        "category": [
+            "blue teaming",
+            "dfir",
+            "packet analysis",
+            "foreniscs",
+            "malware analysis"
+        ],
+        "id": 1302907
+    },
+    {
+        "Title": "RangeForce Community Edition",
+        "url": "https:\/\/go.rangeforce.com\/community-edition-registration",
+        "category": [
+            "red teaming",
+            "blue teaming",
+            "forensic",
+            "reverse engineering",
+            "splunk",
+            "wireshark",
+            "email forensic"
+        ],
+        "id": 1524450
+    },
+    {
+        "Title": "challenges.re",
+        "url": "https:\/\/challenges.re\/",
+        "category": [
+            "reverse-engineering",
+            "windows",
+            "linux",
+            "OS X",
+            "arm",
+            "mips",
+            "x86",
+            "x64"
+        ],
+        "id": 1099545
+    },
+    {
+        "Title": "Flare Fireye",
+        "url": "http:\/\/flare-on.com\/",
+        "category": [
+            "reverse-engineering",
+            "malware analysis"
+        ],
+        "id": 1614981
+    },
+    {
+        "Title": "Ropemporium",
+        "url": "https:\/\/ropemporium.com\/guide.html",
+        "category": [
+            "reverse-engineering",
+            "ROP",
+            "x86",
+            "x64",
+            "mips",
+            "arm",
+            "ropper"
+        ],
+        "id": 1497796
+    },
+    {
+        "Title": "Micro Corruption : Embedded Security CTF",
+        "url": "https:\/\/microcorruption.com\/login",
+        "category": [
+            "emebedded",
+            "capture the flag",
+            "hardware",
+            "iot",
+            "debugger",
+            "reverse engineering"
+        ],
+        "id": 1084879
+    },
+    {
+        "Title": "Cryptopals",
+        "url": "https:\/\/cryptopals.com\/",
+        "category": [
+            "cryptograhy",
+            "crypto",
+            "rsa",
+            "des",
+            "aes",
+            "jwt"
+        ],
+        "id": 1097860
+    },
+    {
+        "Title": "id0 rsa",
+        "url": "https:\/\/id0-rsa.pub\/",
+        "category": [
+            "cryptograhy",
+            "crypto",
+            "rsa",
+            "des",
+            "aes",
+            "pem"
+        ],
+        "id": 1645027
+    },
+    {
+        "Title": "LMG Network Forensic",
+        "url": "https:\/\/forensicscontest.com\/",
+        "category": [
+            "network",
+            "forensic",
+            "puzzles",
+            "defcon",
+            "blue team"
+        ],
+        "id": 1221757
+    },
+    {
+        "Title": "PWN Adevnture",
+        "url": "http:\/\/pwnadventure.com\/",
+        "category": [
+            "pwn",
+            "capture the flag",
+            "game hacking",
+            "reverse",
+            "gdb"
+        ],
+        "id": 1872104
+    },
+    {
+        "Title": "Web Application Exploits and Defenses",
+        "url": "https:\/\/google-gruyere.appspot.com\/",
+        "category": [
+            "web",
+            "webapp",
+            "exploit",
+            "xss",
+            "csrf",
+            "DOS",
+            "Information disclosure",
+            "XSRF"
+        ],
+        "id": 1121303
+    },
+    {
+        "Title": "Hacker Test",
+        "url": "http:\/\/www.hackertest.net\/",
+        "category": [
+            "web",
+            "webapp",
+            "javascript",
+            "php",
+            "html",
+            "rel-life",
+            "security"
+        ],
+        "id": 1349280
+    },
+    {
+        "Title": "Pwnable.tw",
+        "url": "https:\/\/pwnable.tw\/challenge\/",
+        "category": [
+            "pwn",
+            "capture the flag",
+            "game hacking",
+            "reverse",
+            "gdb",
+            "ida",
+            "radare2"
+        ],
+        "id": 1774629
+    },
+    {
+        "Title": "Pwnable.kr",
+        "url": "http:\/\/pwnable.kr\/play.php",
+        "category": [
+            "pwn",
+            "capture the flag",
+            "game hacking",
+            "reverse",
+            "gdb",
+            "ida",
+            "radare2"
+        ],
+        "id": 1500426
+    },
+    {
+        "Title": "EXPLOIT.EDUCATION",
+        "url": "https:\/\/exploit.education\/",
+        "category": [
+            "vulnerability analysis",
+            "exploit development",
+            "software debugging",
+            "binary analysis"
+        ],
+        "id": 1205554
+    },
+    {
+        "Title": "Smash The Stack",
+        "url": "http:\/\/www.smashthestack.org\/wargames.html",
+        "category": [
+            "pwn",
+            "binary exploition",
+            "reverse",
+            "linux"
+        ],
+        "id": 1920104
+    },
+    {
+        "Title": "Join ESET : Crackme",
+        "url": "https:\/\/join.eset.com\/en\/challenges\/crack-me",
+        "category": [
+            "crackme",
+            "challenge",
+            "reverse",
+            "capture the flag"
+        ],
+        "id": 1005641
+    }
+]
