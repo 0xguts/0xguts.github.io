@@ -151,5 +151,19 @@
             "old"
         ],
         "id": 1166312
+    },
+    {
+        "Title": "Parrot OS",
+        "url": "https:\/\/www.parrotsec.org\/",
+        "category": [
+            "pentesting",
+            "red teaming",
+            "linux",
+            "advanced",
+            "Security Research",
+            "Computer Forensics",
+            "Reverse Engineering"
+        ],
+        "id": 1062606
     }
 ]
