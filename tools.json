@@ -476,5 +476,283 @@
             "DFIR"
         ],
         "id": 1955649
+    },
+    {
+        "Title": "oletools : python tools to analyze MS OLE2 files and MS Office documents",
+        "url": "https:\/\/github.com\/decalage2\/oletools",
+        "category": [
+            "olevba",
+            "macros",
+            "blye team",
+            "malware nalaysis",
+            "forensic"
+        ],
+        "id": 1600795
+    },
+    {
+        "Title": "Ghidra : Reverse engineering (SRE) framework",
+        "url": "https:\/\/github.com\/NationalSecurityAgency\/ghidra\/releases",
+        "category": [
+            "reverse-engineering",
+            "disassembler",
+            "software-analysis"
+        ],
+        "id": 1217190
+    },
+    {
+        "Title": "IDA : Binary code analysis tool",
+        "url": "https:\/\/hex-rays.com\/ida-free\/",
+        "category": [
+            "reverse-engineering",
+            "disassembler",
+            "software-analysis"
+        ],
+        "id": 1702057
+    },
+    {
+        "Title": "WPScan : WordPress security scanner",
+        "url": "https:\/\/github.com\/wpscanteam\/wpscan",
+        "category": [
+            "wordpress",
+            "security",
+            "scanner",
+            "scan",
+            "wpscan",
+            "hacking-tool",
+            "security-scanner",
+            "wpvulndb"
+        ],
+        "id": 1052759
+    },
+    {
+        "Title": "Firmadyne : Platform for emulation and dynamic analysis of Linux-based firmware",
+        "url": "https:\/\/github.com\/firmadyne\/firmadyne",
+        "category": [
+            "IOT",
+            "Hardware",
+            "emulation",
+            "firmware",
+            "red teaming"
+        ],
+        "id": 1019555
+    },
+    {
+        "Title": "radare2 : UNIX-like reverse engineering framework and command-line toolset",
+        "url": "https:\/\/github.com\/radareorg\/radare2",
+        "category": [
+            "commandline",
+            "security",
+            "reverse-engineering",
+            "disassembler",
+            "forensics",
+            "malware-analysis",
+            "binary-analysis",
+            "radare2"
+        ],
+        "id": 1615737
+    },
+    {
+        "Title": "killerbee : IEEE 802.15.4\/ZigBee Security Research Toolkit",
+        "url": "https:\/\/github.com\/riverloopsec\/killerbee",
+        "category": [
+            "IOT",
+            "Hardware security",
+            "ZigBee",
+            "firmware",
+            "red teaming"
+        ],
+        "id": 1416348
+    },
+    {
+        "Title": "HackRF : low cost software radio platform",
+        "url": "https:\/\/github.com\/greatscottgadgets\/hackrf",
+        "category": [
+            "radio",
+            "hardware",
+            "sdr",
+            "hackrf",
+            "rf"
+        ],
+        "id": 1642212
+    },
+    {
+        "Title": "RfCat - swiss-army knife of ISM band radio",
+        "url": "https:\/\/github.com\/atlas0fd00m\/rfcat",
+        "category": [
+            "radio",
+            "hardware",
+            "sdr",
+            "hackrf",
+            "rf"
+        ],
+        "id": 1438331
+    },
+    {
+        "Title": "wireshark",
+        "url": "https:\/\/www.wireshark.org\/",
+        "category": [
+            "packet analysis",
+            "traffic analysis",
+            "forensic"
+        ],
+        "id": 1015377
+    },
+    {
+        "Title": "PWNDrop : Self-deployable file hosting service for red teamers",
+        "url": "https:\/\/github.com\/kgretzky\/pwndrop",
+        "category": [
+            "file-sharing",
+            "self-hosted",
+            "http-server",
+            "file-manager",
+            "payloads",
+            "webdav-server",
+            "redteam"
+        ],
+        "id": 1482855
+    },
+    {
+        "Title": "Armitage : Graphical cyber attack management tool for Metasploit",
+        "url": "https:\/\/github.com\/rsmudge\/armitage",
+        "category": [
+            "red team",
+            "pentesting",
+            "cyber attack"
+        ],
+        "id": 1132583
+    },
+    {
+        "Title": "GoPhish : Open-Source Phishing Toolkit",
+        "url": "https:\/\/github.com\/gophish\/gophish",
+        "category": [
+            "golang",
+            "security",
+            "phishing",
+            "gophish",
+            "red team"
+        ],
+        "id": 1481650
+    },
+    {
+        "Title": "Elastic : Ability to aggregate logs , analyze these logs, and create visualizations ",
+        "url": "https:\/\/github.com\/elastic",
+        "category": [
+            "log analysis",
+            "DFIR",
+            "SOC",
+            "OT monitoring",
+            "blue teaming",
+            "logstash",
+            "elasticsearch",
+            "kibana"
+        ],
+        "id": 1158183
+    },
+    {
+        "Title": "RouterSploit : Exploitation Framework for Embedded Devices",
+        "url": "https:\/\/github.com\/threat9\/routersploit",
+        "category": [
+            "IOT",
+            "Hardware",
+            "embedded device",
+            "red teaming",
+            "security",
+            "scanner",
+            "exploits",
+            "router-exploitation-framework"
+        ],
+        "id": 1382126
+    },
+    {
+        "Title": "Jadx : Dex to Java decompiler",
+        "url": "https:\/\/github.com\/skylot\/jadx",
+        "category": [
+            "android",
+            "java",
+            "decompiler",
+            "dex"
+        ],
+        "id": 1727563
+    },
+    {
+        "Title": "FTKImager : Forensic Toolkit",
+        "url": "https:\/\/accessdata.com\/product-download",
+        "category": [
+            "disk forensic",
+            "dfir",
+            "access data",
+            "FTKImager"
+        ],
+        "id": 1221754
+    },
+    {
+        "Title": "Tailsman : It validates the outgoing changeset for things that look suspicious",
+        "url": "https:\/\/github.com\/thoughtworks\/talisman",
+        "category": [
+            "secret",
+            "pre-commit",
+            "scans",
+            "git-hooks",
+            "husky",
+            "talisman",
+            "potential-secrets",
+            "DevSecOps"
+        ],
+        "id": 1136459
+    },
+    {
+        "Title": "The Social-Engineer Toolkit (SET) repository from TrustedSec",
+        "url": "https:\/\/github.com\/trustedsec\/social-engineer-toolkit",
+        "category": [
+            "social engineering",
+            "osint",
+            "red teaming",
+            "toolkit"
+        ],
+        "id": 1856734
+    },
+    {
+        "Title": "Firmware Modification Kit : Extract and rebuild linux based firmware images.",
+        "url": "https:\/\/github.com\/rampageX\/firmware-mod-kit",
+        "category": [
+            "firmware",
+            "trx",
+            "dd-wrt",
+            "linksys",
+            "wrt54g",
+            "wrt54gs",
+            "wl530g",
+            "untrx",
+            "x-wrt",
+            "openwrt",
+            "xwrt",
+            "squashfs",
+            "squashfs-lzma",
+            "lzma",
+            "bitsum"
+        ],
+        "id": 1926141
+    },
+    {
+        "Title": "Metasploit Framework",
+        "url": "https:\/\/www.metasploit.com\/",
+        "category": [
+            "red teaming",
+            "exploit framework",
+            "pentesting",
+            "c2"
+        ],
+        "id": 1566926
+    },
+    {
+        "Title": "Autopsy\u00ae : Digital forensics platform and graphical interface to The Sleuth Kit",
+        "url": "https:\/\/github.com\/sleuthkit\/autopsy",
+        "category": [
+            "DFIR",
+            "Forensic",
+            "Blue Teaming",
+            "disk forensic"
+        ],
+        "id": 1983595
     }
 ]
